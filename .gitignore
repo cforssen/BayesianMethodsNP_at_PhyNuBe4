@@ -1,0 +1,36 @@
+# temporary files
+*~
+local/
+tmp*
+html/
+public*/
+._*
+.DS_Store*
+
+# data files that should not be included
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+
+# Jupyter Notebook
+.ipynb_checkpoints
+.jupyter/
+
+# pyenv
+.python-version
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
